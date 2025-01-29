@@ -1,9 +1,10 @@
-(E) Barsotion KY
-TWIEX_Barsition library 1.2
+(E) Barsotion KY 
+# TWIEX_Barsotion library 1.2
+
 
 История обновлений:
     - 1.2 (24.09.2023) - создан файл Keywords. изменена функция
-        bool _read(bool,uint8_t*)
+        bool _read(bool, uint8_t*)
     - 1.1 (24.09.2023) - внесены правки, написаны примеры
     - 1.0 (17.09.2023) - написана библиотека
 
@@ -23,7 +24,7 @@ TWIEX_Barsition library 1.2
 
 Библиотека рассчитана под работу с контроллерами на тактовой частоте 16МГц.
 
-Функции:
+## Функции:
   - bool twi.writeRegister(uint8_t device_addr, uint8_t register, uint8_t data)
   - bool twi.readRegister(uint8_t device_addr, uint8_t register, uint8_t* buf)
   - bool twi._start(void)
