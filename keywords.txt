@@ -1,0 +1,19 @@
+
+
+TWI KEYWORD1
+
+begin	KEYWORD2
+writeRegister	KEYWORD2
+readRegister	KEYWORD2
+_start	KEYWORD2
+_write	KEYWORD2
+_read	KEYWORD2
+_stop	KEYWORD2
+startQueue	KEYWORD2
+start	KEYWORD2
+write	KEYWORD2
+request	KEYWORD2
+read	KEYWORD2
+stop	KEYWORD2
+end	KEYWORD2
+setErrorTime	KEYWORD2
